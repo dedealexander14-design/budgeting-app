@@ -14,6 +14,8 @@ This project was created to help users better manage their finances and gain ins
 
 ## Status
 Live and Published 🚀
+## Live
+https://bloomfinancelovableapp.lovable.app
 
 ## Future Enhancements
 - Savings goals
