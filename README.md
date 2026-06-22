@@ -1,2 +1,22 @@
-# budgeting-app
-Personal budgeting application for tracking expenses, income, budgets, and financial goals.
+# Budgeting App
+
+A personal budgeting application designed to help users track expenses, income, budgets, and financial goals.
+
+## Features
+- Expense tracking
+- Budget management
+- Financial goal tracking
+- User-friendly dashboard
+- Mobile-friendly design
+
+## Purpose
+This project was created to help users better manage their finances and gain insight into their spending habits.
+
+## Status
+Live and Published 🚀
+
+## Future Enhancements
+- Savings goals
+- Spending reports
+- Monthly analytics
+- User authentication
